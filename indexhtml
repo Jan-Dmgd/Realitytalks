@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>J's Motivational Podcast For Teens</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #121212;
+      color: #f0f0f0;
+    }
+    header {
+      background-color: #1f1f1f;
+      padding: 2rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-style: italic;
+      color: #aaaaaa;
+    }
+    .content {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .content h2 {
+      color: #ffffff;
+    }
+    .content a {
+      color: #1e90ff;
+      text-decoration: none;
+    }
+    .links {
+      margin-top: 1rem;
+    }
+    .links a {
+      display: inline-block;
+      margin-right: 1rem;
+    }
+    footer {
+      background-color: #1f1f1f;
+      padding: 1rem;
+      text-align: center;
+      color: #777;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>J's Motivational Podcast For Teens</h1>
+    <p>"Motivates those who are mentally attacked by life"</p>
+  </header>
+
+  <div class="content">
+    <h2>About the Podcast</h2>
+    <p>J's Motivational Podcast gives motivation to teens who are mentally attacked by life. Each episode is made to uplift and inspire.</p>
+
+    <h2>Listen Now</h2>
+    <p>Catch the latest episodes on YouTube:</p>
+    <a href="https://www.youtube.com/@janedbaguhin7130" target="_blank">Visit our YouTube Channel</a>
+
+    <h2>Follow Us</h2>
+    <div class="links">
+      <a href="https://www.facebook.com/profile.php?id=61557672419775" target="_blank">Facebook</a>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 J's Motivational Podcast For Teens. All rights reserved.</p>
+  </footer>
+</body>
+</html>
